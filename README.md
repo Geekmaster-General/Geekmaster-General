@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Geekmaster-General
-- 👀 I’m interested in cybersecurity and IT Operations
-- 🌱 I’m currently learning about reverse engineering and malware analysis
-- 💞️ I’m looking to collaborate on mainly the IOCs I collect as part of my day job
+- 👀 I’m a WhiteHat, Certified Cybersecurity Architect, Certified Systems Engineer, Certified Security Engineer - oh, and I'm a lifetime gamer too (mostly PC)
+- 🌱 I’m currently learning about reverse engineering, malware analysis, and how to use Blender to make assets for my son's games
+- 💞️ I’m looking to share primarily the IOCs I collect as part of my day job, and some other good security tidbits/tools that may be useful for others
 - 📫 How to reach me geekmaster@duck.com
 
 <!---
