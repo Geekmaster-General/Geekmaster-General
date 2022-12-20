@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about reverse engineering, malware analysis, and how to use Blender to make assets for my son's games
 - 💞️ I’m looking to share primarily the IOCs I collect as part of my day job, and some other good security tidbits/tools that may be useful for others
 - 📫 How to reach me geekmaster@duck.com
+- 📰 Check out my blog where I write about dope geeky stuff https://geekofthehouse.blogspot.com
 
 <!---
 Geekmaster-General/Geekmaster-General is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
